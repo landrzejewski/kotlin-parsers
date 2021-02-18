@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.sages.ParsersTests" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-02-18T04:36:12" hostname="hcf-2.local" time="0.101">
+  <properties/>
+  <testcase name="should parse prefix" classname="pl.sages.ParsersTests" time="0.032"/>
+  <testcase name="should parse an integer" classname="pl.sages.ParsersTests" time="0.003"/>
+  <testcase name="should parse an whitespace" classname="pl.sages.ParsersTests" time="0.003"/>
+  <testcase name="should parse an sequence" classname="pl.sages.ParsersTests" time="0.005"/>
+  <testcase name="should parse using one of the parsers" classname="pl.sages.ParsersTests" time="0.004"/>
+  <testcase name="should map result value" classname="pl.sages.ParsersTests" time="0.004"/>
+  <testcase name="should skip first parser)" classname="pl.sages.ParsersTests" time="0.004"/>
+  <testcase name="should skip following parser" classname="pl.sages.ParsersTests" time="0.003"/>
+  <testcase name="should parse many" classname="pl.sages.ParsersTests" time="0.003"/>
+  <testcase name="should parse many separated by" classname="pl.sages.ParsersTests" time="0.004"/>
+  <testcase name="should parse integers array" classname="pl.sages.ParsersTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
