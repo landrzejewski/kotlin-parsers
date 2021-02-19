@@ -21,10 +21,10 @@ class ParsersTests : StringSpec({
         - inne separatory
         - wyrażenia, które trzeba interpretować w specyficzmy sposób
      Logika naszego parsera stanie się zawiła i skomplikowana.
-     Jakimś pomysłem moogą wydawać się wytażenia regularne, ale to zły pomysł :)
-     Rozwiązaniem, które mogą się sprawdzić są parsers combinators.
+     Jakimś pomysłem mogą wydawać się wyrażenia regularne, ale to zły pomysł :)
 
-     Możemy założyć (chociaż to uproszeczenie), że parser to funkcja:
+     Źeby rozwiązać problem w efektywny sposób wykorzytamy funkcje i możliwośc ich kompozycji
+     Możemy założyć (chociaż to uproszeczenie), że parser to prosta funkcja
      (String) -> Result<T> gdzie Result będzie reprezentowało dwie potencjalne wartości
      sukces albo porażkę
     */
